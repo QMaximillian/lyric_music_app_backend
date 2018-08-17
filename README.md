@@ -1,1 +1,0 @@
-# lyric_music_app_backend
